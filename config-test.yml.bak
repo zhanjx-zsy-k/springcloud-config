@@ -1,1 +1,2 @@
-profile:test
+config:
+  info: 测试test
